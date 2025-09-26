@@ -27,6 +27,16 @@ With state-of-the-art equipment and a passionate team, we ensure the highest qua
 **Name:** DM Records  
 **Phone:** [9582496151](tel:+919582496151) / [9414556568](tel:+919414556568)  
 **Email:** [dushyantmishra374@gmail.com](mailto:dushyantmishra374@gmail.com)  
-**Facebook:** [Visit our page](https://www.facebook.com/share/1FtHHKD9Fn/?mibextid=wwXIfr)
+**Location:** [View on Map](https://maps.app.goo.gl/aQH3wG1UBWSQQE8VA?g_st=ipc)
 
 > For bookings and inquiries, feel free to call or email. We'll be happy to discuss your project and timelines.
+
+---
+
+<footer>
+  <h2>Connect with us</h2>
+  <ul>
+    <li><a href="https://www.facebook.com/share/1FtHHKD9Fn/?mibextid=wwXIfr" target="_blank">Facebook</a></li>
+    <li><a href="https://www.instagram.com/dushyantmishra374?igsh=MWYwaTd0eWs2NXYxZg%3D%3D&utm_source=qr" target="_blank">Instagram</a></li>
+  </ul>
+</footer>
