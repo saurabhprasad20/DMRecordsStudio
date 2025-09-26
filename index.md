@@ -39,4 +39,7 @@ With state-of-the-art equipment and a passionate team, we ensure the highest qua
     <li><a href="https://www.facebook.com/share/1FtHHKD9Fn/?mibextid=wwXIfr" target="_blank">Facebook</a></li>
     <li><a href="https://www.instagram.com/dushyantmishra374?igsh=MWYwaTd0eWs2NXYxZg%3D%3D&utm_source=qr" target="_blank">Instagram</a></li>
   </ul>
+<p style="text-align:center; font-size:0.9em; color:#555;">
+  © 2025 DM Records Studio. All rights reserved.
+</p>
 </footer>
