@@ -1,5 +1,4 @@
 ---
-title: DM Records Studio
 layout: default
 ---
 
