@@ -1,5 +1,5 @@
 ---
-title: Home
+title: DM Records Studio
 layout: default
 ---
 
